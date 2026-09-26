@@ -36,4 +36,4 @@ Credenciais, tokens, chaves de API e segredos nunca devem ser incluídos no repo
 - Criar demonstrações seguras
 
 ## Autor
-Enzo
+Enzo da Rosa Severino
