@@ -1,0 +1,28 @@
+JARVIS AGENT v2 — DESCOBERTA AUTOMÁTICA DE APLICATIVOS
+
+INSTALAÇÃO
+1. Execute INSTALAR_JARVIS.bat
+2. Execute CONFIGURAR_IA.bat
+3. Configure as chaves desejadas
+4. Execute INICIAR_JARVIS.bat
+
+NOVIDADE PRINCIPAL
+O JARVIS indexa atalhos do Menu Iniciar e Desktop automaticamente.
+Assim, comandos como:
+- Jarvis, abra o Valorant
+- Jarvis, abra Discord
+- Jarvis, abra Steam
+- Jarvis, abra Chrome
+- Jarvis, abra VS Code
+podem funcionar sem cadastrar cada aplicativo manualmente.
+
+VALORANT
+Há suporte adicional para procurar o atalho do VALORANT e o Riot Client.
+O JARVIS não tenta contornar Vanguard, login, UAC ou outras proteções.
+
+Para refazer o índice:
+"Jarvis, atualize aplicativos"
+
+SEGURANÇA
+Operações destrutivas continuam bloqueadas.
+Não execute permanentemente como Administrador.

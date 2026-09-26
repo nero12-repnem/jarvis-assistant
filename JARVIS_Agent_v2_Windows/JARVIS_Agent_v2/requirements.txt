@@ -1,0 +1,12 @@
+google-genai
+openai
+anthropic
+python-dotenv
+SpeechRecognition
+pyttsx3
+customtkinter
+pyautogui
+psutil
+PyAudioWPatch
+Pillow
+requests
